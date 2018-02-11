@@ -1,0 +1,34 @@
+---
+output: github_document
+---
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+
+```
+![](man/figures/logo.png)
+
+## Overview
+
+sauceR is a small package providing additional functionality to the __source()__ function in {base}. Specifically, a source file can be internally marked-up into modules, and the the modules can be individually executed. 
+
+## Installation
+
+```{r eval = FALSE}
+# This package is not available on CRAN
+
+# Install the development version from GitHub
+# install.packages("devtools")
+devtools::install_github("dreidpath/sauceR")
+```
+
+## Usage
+
+`library(sauceR)` will load the package. 
+
+## Packages
