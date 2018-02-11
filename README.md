@@ -5,7 +5,7 @@
 Overview
 --------
 
-sauceR is a small package of functions that are an alternative to the **source()** function in {base}.
+sauceR is a small package providing additional functionality to the **source()** function in {base}. Specifically, a source file can be internally marked-up into modules, and the the modules can be individually executed.
 
 Installation
 ------------
