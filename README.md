@@ -26,4 +26,4 @@ Usage
 Acknowledgement
 ---------------
 
-My insight into how this packlage might be written came from [Matthew Plourde's](https://stackoverflow.com/users/433829/matthew-plourde) answer to a [question on stackoverflow](https://stackoverflow.com/questions/12214963/source-only-part-of-a-file)
+My insight into how this package might be written came from [Matthew Plourde's](https://stackoverflow.com/users/433829/matthew-plourde) answer to a [question on stackoverflow](https://stackoverflow.com/questions/12214963/source-only-part-of-a-file)
